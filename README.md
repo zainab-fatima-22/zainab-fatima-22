@@ -23,7 +23,7 @@ I'm a passionate **Software Engineering undergraduate** from **Capital Universit
 
 <div align="center">
 
-**🎓 CGPA: 3.84/4.00** | **📍 Pakistan** | **💼 Open to Opportunities**
+**🎓 CGPA: 3.86/4.00** | **📍 Pakistan** | **💼 Open to Opportunities**
 
 </div>
 
