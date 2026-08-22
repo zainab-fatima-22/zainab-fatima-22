@@ -242,7 +242,7 @@ A complete e-commerce solution built with the MERN stack featuring comprehensive
 <div align="center">
 
 ⭐ **Academic Excellence**  
-Maintained CGPA of 3.84/4.00 in Software Engineering
+Maintained CGPA of 3.86/4.00 in Software Engineering
 
 🤝 **Community Contribution**  
 Volunteer appreciation from Alkhidmat Foundation, Gujrat
@@ -263,7 +263,7 @@ Sports Week volunteer coordinator at Capital University
 
 **Capital University of Science and Technology, Pakistan**
 
-🏅 CGPA: **3.84/4.00**  
+🏅 CGPA: **3.86/4.00**  
 📅 Expected Graduation: **2026**
 
 ### 📖 Relevant Coursework
