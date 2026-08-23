@@ -1,356 +1,336 @@
-# <img src="https://media.giphy.com/media/hvRJCLFzcasrng815/giphy.gif" width="35px"> Hello, I'm Zainab Fatima
-
 <div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=1EDD88&center=true&vCenter=true&width=700&lines=💻+Software+Engineering+Undergraduate;🚀+Full+Stack+Developer;🤖+AI+Enthusiast;✨+Problem+Solver;🌟+Tech+Innovator)](https://git.io/typing-svg)
+
+✨ Zainab Fatima
+
+Software Engineering Undergraduate · Full Stack Developer · AI & ML Builder
+
+<p>
+  <a href="https://github.com/zainab-fatima-22">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  </a>
+  <a href="https://www.linkedin.com/in/zainab-fatima-448826429/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:ahsanzainab3966@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&size=20&duration=3000&pause=900&color=E85D9E&center=true&vCenter=true&width=720&lines=Building+thoughtful+digital+experiences;Full+Stack+Development;Artificial+Intelligence+%26+Machine+Learning;RAG+Systems+%26+Classical+NLP;Clean+UI+%7C+Reliable+Software+%7C+Real+Projects" alt="Typing introduction">
 
 </div>
 
-<div align="center">
+<br>
 
-### 🌿 Building innovative solutions with cutting-edge technologies
+♡ About Me
 
-![Profile Views](https://komarev.com/ghpvc/?username=zainab-fatima-22&color=1EDD88&style=flat-square)
-![GitHub followers](https://img.shields.io/github/followers/zainab-fatima-22?style=flat-square&color=1EDD88)
+I am a Software Engineering undergraduate at Capital University of Science and Technology, Pakistan, with a strong interest in full stack development, artificial intelligence, machine learning, software quality, and product focused engineering.
 
-</div>
+I enjoy turning ideas into complete working products, from the interface and user experience to APIs, databases, machine learning pipelines, testing, and deployment.
 
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
-
-## 🌟 About Me
-
-I'm a passionate **Software Engineering undergraduate** from **Capital University of Science and Technology, Pakistan** with expertise in full-stack web development, artificial intelligence, and software testing. I specialize in building scalable, innovative applications that solve real-world problems.
+My recent work combines AI, RAG, classical machine learning, modern web development, and thoughtful UI design. I care about building software that is not only functional, but also understandable, polished, and reliable.
 
 <div align="center">
 
-**🎓 CGPA: 3.86/4.00** | **📍 Pakistan** | **💼 Open to Opportunities**
+🎓 CGPA 3.86 / 4.00
+💻 Software Engineering
+📍 Pakistan
+🌸 Open to Opportunities
 
 </div>
 
-<div align="center">
+<br>
 
-### 📬 Connect With Me
+✦ What I Build
 
-[📧 ahsanzainab3966@gmail.com](mailto:ahsanzainab3966@gmail.com) 
-| 
-[📱 +92 342 3695322](tel:+923423695322) 
-|
-[🐙 GitHub](https://github.com/zainab-fatima-22) 
-|
-[💼 LinkedIn](#)
-
-</div>
-
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
-
-## 💻 Technical Arsenal
-
-<div align="center">
-
-### 🔤 Programming Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-
-### 🎨 Frontend Technologies
-
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-
-### ⚙️ Backend & Frameworks
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### 🗄️ Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### 🤖 AI & Machine Learning
-
-![Google_Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-1EDD88?style=for-the-badge&logoColor=black)
-![Qwen](https://img.shields.io/badge/Qwen_Models-FF6B00?style=for-the-badge)
-
-### 🧪 Testing & QA
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![TestNG](https://img.shields.io/badge/TestNG-FF6B00?style=for-the-badge)
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![JMeter](https://img.shields.io/badge/JMeter-D70DB7?style=for-the-badge)
-
-### 🛠️ Tools & DevOps
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
-
-</div>
-
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
-
-## 🚀 Featured Projects
-
-<table border="0">
+<table>
 <tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🏥 MediAssist AI
+💻 Full Stack
 
-**Full Stack AI Powered Medical Assistant**
-
-A comprehensive healthcare platform that leverages artificial intelligence to provide intelligent symptom analysis, medical chatbot with context aware responses, medicine information system, and hospital finder. The system ensures secure access through JWT authentication and implements rate limiting for API protection.
-
-**🛠️ Tech Stack**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Google_Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
-✨ **Key Features**
-• AI powered symptom analysis
-• Medical chatbot with memory
-• Secure authentication
-• Hospital finder system
+React
+TypeScript
+JavaScript
+Node.js
+Express
+FastAPI
+MongoDB
+REST APIs
 
 </td>
-<td width="50%">
 
-### 📄 AI Resume Analyzer
+<td width="33%" align="center">
 
-**Intelligent Resume Analysis Platform**
+🤖 AI & ML
 
-An AI powered resume evaluation system that provides comprehensive feedback generation and skill assessment. The application uses a microservice architecture integrating frontend, backend, and AI services for optimal performance and scalability.
-
-**🛠️ Tech Stack**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Spring_Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Google_Gemini](https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white)
-
-✨ **Key Features**
-• Resume evaluation engine
-• Feedback generation
-• Skill assessment
-• Microservice architecture
+RAG Systems
+Google Gemini
+TF IDF
+Logistic Regression
+NLP
+AI Applications
+Model Evaluation
+Explainable ML
 
 </td>
-</tr>
 
-<tr>
-<td width="50%">
+<td width="33%" align="center">
 
-### 🎓 University RAG Chatbot
+🧪 Engineering
 
-**Retrieval Augmented Generation System**
-
-An intelligent chatbot system built specifically for Capital University that provides university specific information using advanced RAG techniques and Qwen models. The system ensures accurate, context aware responses through sophisticated retrieval mechanisms.
-
-**🛠️ Tech Stack**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![OpenRouter](https://img.shields.io/badge/OpenRouter-1EDD88?style=flat-square&logoColor=black)
-![Qwen](https://img.shields.io/badge/Qwen-FF6B00?style=flat-square)
-
-✨ **Key Features**
-• RAG technology
-• University knowledge base
-• Context aware responses
-
-</td>
-<td width="50%">
-
-### 🛒 E-Commerce Store
-
-**Full Stack MERN Application**
-
-A complete e-commerce solution built with the MERN stack featuring comprehensive product management, secure authentication, shopping cart functionality, and order management. The application demonstrates best practices in full-stack development.
-
-**🛠️ Tech Stack**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-
-✨ **Key Features**
-• Product management
-• Secure authentication
-• Shopping cart system
-• Order management
+Software Testing
+API Testing
+JUnit
+Jest
+Vitest
+pytest
+Git & GitHub
+Docker
 
 </td>
 </tr>
 </table>
 
-### 💫 Additional Projects
+<br>
+
+♡ Featured Projects
+
+📧 SmartMail
+
+End to End Machine Learning Email Classifier
+
+SmartMail is a complete classical NLP and machine learning application that classifies emails into Spam, Promotional, Work, Personal, Important, and Social.
+
+Unlike an LLM based classifier, SmartMail uses a transparent TF IDF + Logistic Regression pipeline. It provides confidence scores and feature level explanations based on the model's learned coefficients.
+
+Built with
+
+Python scikit learn FastAPI React TypeScript SQLite Docker
+
+Highlights
+
+✨ Email classification from pasted text or .txt and .eml files
+✨ Confidence scoring and human readable explanations
+✨ Searchable prediction history
+✨ Statistics dashboard
+✨ Privacy conscious local classification
+✨ 63 tests across ML, backend, database, and frontend
+✨ Production oriented Docker setup
+
+<a href="https://github.com/zainab-fatima-22">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="SmartMail on GitHub">
+</a>
+
+<br><br>
+
+👗 The Closet Club
+
+AI Powered Digital Wardrobe & Styling Experience
+
+The Closet Club is a polished fashion and wardrobe platform designed around a feminine, modern, and premium user experience.
+
+The application explores digital wardrobe management, outfit creation, styling experiences, wardrobe uploads, and responsive interfaces designed for desktop, tablet, and mobile users.
+
+Built with
+
+React Vite Express Tailwind CSS JavaScript
+
+Highlights
+
+✨ Digital wardrobe experience
+✨ Outfit pairing and styling features
+✨ Wardrobe item uploads
+✨ Responsive design
+✨ Premium feminine visual system
+✨ Full stack application structure
+
+<a href="https://the-closet-club.vercel.app/">
+  <img src="https://img.shields.io/badge/Live%20Project-E85D9E?style=for-the-badge&logo=vercel&logoColor=white" alt="The Closet Club live project">
+</a>
+
+<br><br>
+
+🧾 Tax Assist AI
+
+RAG Based Pakistan Personal Income Tax Assistant
+
+Tax Assist AI is a retrieval augmented generation chatbot designed to help salaried individuals and freelancers in Pakistan understand personal income tax.
+
+The system retrieves relevant information from official tax sources before generating an answer, helping keep responses grounded in source material instead of relying only on a language model's general knowledge.
+
+Built with
+
+React Node.js Express MongoDB Google Gemini RAG
+
+Highlights
+
+✨ Retrieval augmented generation
+✨ FBR focused tax knowledge
+✨ Tax slabs and deduction guidance
+✨ Filing and deadline guidance
+✨ JWT authentication
+✨ Secure password hashing
+✨ Conversation history
+✨ Grounded AI responses
+
+<a href="https://github.com/zainab-fatima-22/rag-chatbot">
+  <img src="https://img.shields.io/badge/View%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Tax Assist AI on GitHub">
+</a>
+
+<br><br>
+
+🎮 Other Projects
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+🐍 Snake Game
+
+A classic Snake Game built as a software development project, focusing on game logic, movement, collision handling, scoring, and interactive gameplay.
+
+</td>
+
+<td width="50%" align="center">
+
+🛒 E Commerce Store
+
+A full stack MERN application featuring product management, authentication, shopping cart functionality, and order management.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" align="center">
+
+🎮 Space Shooter
+
+A game development project focused on interactive gameplay, movement, collision logic, and team based implementation.
+
+</td>
+
+<td width="50%" align="center">
+
+🏦 Banking System
+
+A software project implementing core banking logic and transaction oriented functionality.
+
+</td>
+</tr>
+</table>
+
+<br>
+
+🛠️ Technology Stack
 
 <div align="center">
 
-| 🔐 Secure Login System | 📚 Library Management | 🏨 Hotel Network |
-|---|---|---|
-| Two-factor verification | OOP Architecture | Cisco Configuration |
-| MERN Stack | C++ Implementation | Network Design |
+Languages
 
-| 🎮 Space Shooter Game | 🏦 Banking System | 🧪 OpenCart Testing |
-|---|---|---|
-| Unity Development | Assembly Language | Selenium Framework |
-| Team Collaboration | Banking Logic | Performance Testing |
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" alt="Programming languages">
+
+Frontend
+
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" alt="Frontend technologies">
+
+Backend & Databases
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,mongodb,mysql" alt="Backend and database technologies">
+
+AI, Testing & DevOps
+
+<img src="https://skillicons.dev/icons?i=python,docker,git,github,linux,postman" alt="AI testing and DevOps tools">
 
 </div>
 
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
+<br>
 
-## 🎯 Core Expertise
+✦ Engineering Focus
+
+<table>
+<tr>
+<td align="center">🌐<br><b>Web Engineering</b><br>Full Stack Applications</td>
+<td align="center">🤖<br><b>Artificial Intelligence</b><br>RAG & ML Systems</td>
+<td align="center">🧪<br><b>Quality Assurance</b><br>Automated Testing</td>
+</tr>
+<tr>
+<td align="center">🏗️<br><b>Software Architecture</b><br>Scalable System Design</td>
+<td align="center">🗄️<br><b>Data & APIs</b><br>Databases & REST APIs</td>
+<td align="center">🚀<br><b>Deployment</b><br>Docker & Cloud Workflows</td>
+</tr>
+</table>
+
+<br>
+
+🎓 Education
+
+Bachelor of Science in Software Engineering
+
+Capital University of Science and Technology, Pakistan
+
+CGPA: 3.86 / 4.00
+Expected Graduation: 2026
+
+Relevant coursework includes Object Oriented Programming, Data Structures and Algorithms, Software Design and Architecture, Database Systems, Computer Networks, Software Testing and Quality Assurance, Web Engineering, Artificial Intelligence, and Parallel and Distributed Computing.
+
+<br>
+
+✨ Currently Exploring
 
 <div align="center">
 
-| **Web Development** | **Artificial Intelligence** | **Quality Assurance** |
-|---|---|---|
-| Full Stack MERN | RAG Systems | Functional Testing |
-| REST APIs | Prompt Engineering | API Testing |
-| Authentication | LLM Integration | Performance Tuning |
-| Microservices | AI Chatbots | Page Object Model |
-
-| **Software Architecture** | **Database Design** | **DevOps & Tools** |
-|---|---|---|
-| Scalable Systems | MongoDB | Git & GitHub |
-| Design Patterns | Data Modeling | Linux |
-| Distributed Computing | Query Optimization | JWT Security |
-| System Design | Database Architecture | Network Config |
+Advanced AI & LLM Integration
+RAG Systems
+Machine Learning
+Cloud Computing & DevOps
+System Design & Scalability
+Containerization & Kubernetes
 
 </div>
 
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
+<br>
 
-## 🏆 Achievements & Recognition
+📊 GitHub
 
 <div align="center">
 
-⭐ **Academic Excellence**  
-Maintained CGPA of 3.86/4.00 in Software Engineering
+<img src="https://github-readme-stats.vercel.app/api?username=zainab-fatima-22&show_icons=true&hide_border=true&title_color=E85D9E&icon_color=E85D9E&text_color=555555&bg_color=FFF9FC" height="170" alt="GitHub statistics">
 
-🤝 **Community Contribution**  
-Volunteer appreciation from Alkhidmat Foundation, Gujrat
-
-🎓 **Research & Analysis**  
-Comparative study of Divide and Conquer algorithms
-
-📱 **Event Management**  
-Sports Week volunteer coordinator at Capital University
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-fatima-22&layout=compact&hide_border=true&title_color=E85D9E&text_color=555555&bg_color=FFF9FC" height="170" alt="Top languages">
 
 </div>
 
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
-
-## 📚 Education
-
-### 🎓 Bachelor of Science in Software Engineering
-
-**Capital University of Science and Technology, Pakistan**
-
-🏅 CGPA: **3.86/4.00**  
-📅 Expected Graduation: **2026**
-
-### 📖 Relevant Coursework
-
-Object Oriented Programming • Data Structures and Algorithms • Software Design and Architecture • Database Systems • Parallel and Distributed Computing • Computer Networks • Software Testing and Quality Assurance • Web Engineering • Artificial Intelligence
-
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
-
-## 🌱 Learning Journey
-
-Currently expanding expertise in:
-
-🔄 Advanced AI & LLM Integration  
-🔄 Cloud Computing & DevOps  
-🔄 System Design & Scalability  
-🔄 Advanced Data Structures  
-🔄 Containerization & Kubernetes  
-
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
-
-## 🎯 Interests & Passions
+<br>
 
 <div align="center">
 
-🎥 **Content Photography**  
-Capturing technical moments and visual storytelling
-
-📸 **Content Creation**  
-Sharing knowledge and experiences with communities
-
-🚀 **Technology Innovation**  
-Exploring cutting edge solutions and frameworks
-
-🤖 **Artificial Intelligence**  
-Building intelligent systems that solve real problems
-
-💻 **Software Development**  
-Crafting clean, efficient, scalable code
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainab-fatima-22&hide_border=true&background=FFF9FC&ring=E85D9E&fire=E85D9E&currStreakLabel=E85D9E" alt="GitHub contribution streak">
 
 </div>
 
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
+<br>
 
-## 📊 Quick Stats
-
-<div align="center">
-
-![Total Stars](https://img.shields.io/badge/Repositories-Multiple-1EDD88?style=flat-square)
-![Programming](https://img.shields.io/badge/Languages-6-1EDD88?style=flat-square)
-![Experience](https://img.shields.io/badge/Projects-10+-1EDD88?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Available-1EDD88?style=flat-square)
-
-</div>
-
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
-
-## 💬 Get In Touch
-
-I'm always excited to discuss technology, collaborate on projects, and explore innovative ideas!
+♡ Let's Connect
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-ahsanzainab3966@gmail.com-1EDD88?style=for-the-badge&logo=gmail&logoColor=black)](mailto:ahsanzainab3966@gmail.com)
+<a href="https://www.linkedin.com/in/zainab-fatima-448826429/">
+  <img src="https://img.shields.io/badge/LinkedIn-Zainab%20Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-[![Phone](https://img.shields.io/badge/Phone-%2B92%20342%203695322-1EDD88?style=for-the-badge&logo=phone&logoColor=black)](tel:+923423695322)
+<a href="mailto:ahsanzainab3966@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
 
-[![GitHub](https://img.shields.io/badge/GitHub-zainab_fatima_22-1EDD88?style=for-the-badge&logo=github&logoColor=black)](https://github.com/zainab-fatima-22)
+<a href="https://github.com/zainab-fatima-22">
+  <img src="https://img.shields.io/badge/GitHub-Zainab%20Fatima-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-1EDD88?style=for-the-badge&logo=linkedin&logoColor=black)](#)
+<br><br>
 
-</div>
+✨ Building software with purpose, curiosity, and attention to detail.
 
-<hr style="border: 2px solid #1EDD88; border-radius: 5px;">
-
-<div align="center">
-
-### 🌟 Thank You For Visiting
-
-If you found this profile interesting, feel free to explore my repositories and get in touch!
-
-![Profile Views](https://komarev.com/ghpvc/?username=zainab-fatima-22&color=1EDD88&style=flat-square)
-
----
-
-**Made with 💚 by Zainab Fatima**  
-*Software Engineer | AI Enthusiast | Tech Innovator*
-
----
+<img src="https://komarev.com/ghpvc/?username=zainab-fatima-22&color=E85D9E&style=flat-square" alt="Profile views">
 
 </div>
