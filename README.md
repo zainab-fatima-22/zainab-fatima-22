@@ -1,237 +1,172 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=190&color=0:FFF1F7,50:F8D8E8,100:E9B7D0&text=Zainab%20Fatima&fontColor=3D2633&fontSize=48&fontAlignY=38&desc=Software%20Engineering%20%7C%20Full%20Stack%20%7C%20AI%20%26%20ML&descAlignY=62&descSize=18" width="100%">
+# Zainab Fatima
+
+### Software Engineering Undergraduate · Full Stack Developer · AI & ML
+
+<p>
+  <a href="https://github.com/zainab-fatima-22">GitHub</a>
+  &nbsp; ✦ &nbsp;
+  <a href="https://www.linkedin.com/in/zainab-fatima-448826429/">LinkedIn</a>
+  &nbsp; ✦ &nbsp;
+  <a href="mailto:ahsanzainab3966@gmail.com">Email</a>
+</p>
 
 <br>
+
+<img src="./assets/profile-banner.svg" alt="Zainab Fatima profile banner" width="92%">
+
+</div>
+
+<br>
+
+## Hello, I'm Zainab ♡
+
+I am a **Software Engineering undergraduate** at **Capital University of Science and Technology, Pakistan**, focused on building complete software products across the stack.
+
+My recent work brings together **full stack development, artificial intelligence, machine learning, retrieval augmented generation, software testing, and product focused UI design**.
+
+I like building beyond the demo stage: a thoughtful interface, a working API, a real data layer, meaningful validation, automated tests, and a clean final experience.
+
+<table>
+<tr>
+<td align="center"><b>3.86 / 4.00</b><br>CGPA</td>
+<td align="center"><b>Full Stack</b><br>Development</td>
+<td align="center"><b>AI + ML</b><br>Engineering</td>
+<td align="center"><b>QA</b><br>Testing</td>
+<td align="center"><b>2026</b><br>Graduation</td>
+</tr>
+</table>
+
+<br>
+
+## What I Build
+
+<table>
+<tr>
+<td width="25%" align="center">
+
+### ✦ Product UI
+
+Responsive interfaces  
+Design systems  
+Interaction design  
+Usability
+
+</td>
+<td width="25%" align="center">
+
+### ✦ Full Stack
+
+React  
+TypeScript  
+Node.js  
+FastAPI  
+REST APIs
+
+</td>
+<td width="25%" align="center">
+
+### ✦ AI & ML
+
+RAG  
+NLP  
+TF IDF  
+Logistic Regression  
+Gemini
+
+</td>
+<td width="25%" align="center">
+
+### ✦ Quality
+
+pytest  
+Vitest  
+Jest  
+JUnit  
+API testing
+
+</td>
+</tr>
+</table>
+
+<br>
+
+# Featured Projects
+
+<div align="center">
+
+### Three recent projects. Three different engineering problems.
+
+</div>
+
+<br>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## 📧 SmartMail
+
+**Classical Machine Learning Email Classifier**
+
+An end to end email classification application built deliberately **without an LLM classifier**.
+
+SmartMail converts email text into TF IDF features and uses **Logistic Regression** to classify messages into six categories.
+
+### The interesting part
+
+The model does not simply return a label. It also exposes **confidence and feature level explanations** derived from its own learned coefficients.
+
+**Stack**
+
+`Python` `scikit learn` `FastAPI`  
+`React` `TypeScript` `SQLite` `Docker`
+
+**Includes**
+
+• Paste or upload `.txt` and `.eml` emails  
+• Confidence scoring  
+• Explainable predictions  
+• Searchable prediction history  
+• Statistics dashboard  
+• Privacy conscious local inference  
+• **63 tests across the stack**
 
 <a href="https://github.com/zainab-fatima-22">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-&nbsp;
-<a href="https://www.linkedin.com/in/zainab-fatima-448826429/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-&nbsp;
-<a href="mailto:ahsanzainab3966@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-</a>
-
-<br><br>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Plus+Jakarta+Sans&weight=600&size=19&duration=2800&pause=900&color=C45A8A&center=true&vCenter=true&width=760&height=45&lines=Building+products%2C+not+just+projects.;Full+Stack+Development+%E2%9C%A6+AI+%26+Machine+Learning;RAG+Systems+%E2%9C%A6+Classical+NLP+%E2%9C%A6+Software+Quality;Clean+interfaces.+Thoughtful+architecture.+Reliable+software.">
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=zainab-fatima-22&color=C45A8A&style=for-the-badge&label=PROFILE+VIEWS">
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="58%" valign="top">
-
-♡ Hello, I'm Zainab
-
-I am a Software Engineering undergraduate at Capital University of Science and Technology, Pakistan, interested in building complete software products across the stack.
-
-My work sits at the intersection of web engineering, artificial intelligence, machine learning, software architecture, and quality assurance.
-
-I enjoy taking an idea from a blank screen to a working product, designing the interface, building the backend, connecting data, integrating intelligent systems, testing the important paths, and making the final experience feel polished.
-
-I especially enjoy projects where the engineering is visible behind the interface.
-
-</td>
-
-<td width="42%" valign="top">
-
-<div align="center">
-
-✦ At a Glance
-
-<br>
-
-🎓 Software Engineering
-
-📚 CGPA 3.86 / 4.00
-
-💻 Full Stack Developer
-
-🤖 AI & ML Enthusiast
-
-🧠 RAG & NLP
-
-🧪 Testing & Quality
-
-📍 Pakistan
-
-<br>
-
-<a href="https://www.linkedin.com/in/zainab-fatima-448826429/">
-<img src="https://img.shields.io/badge/Let's%20Connect-C45A8A?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-</div>
-
-</td>
-</tr>
-</table>
-
-<br>
-
-✦ What I Love Building
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="25%">
-
-🌸
-
-Product UI
-
-Interfaces that feel intentional, responsive, and easy to use.
-
-</td>
-<td align="center" width="25%">
-
-⚡
-
-Full Stack Systems
-
-Frontend, APIs, databases, authentication, and deployment working together.
-
-</td>
-<td align="center" width="25%">
-
-🤖
-
-Intelligent Software
-
-RAG applications, NLP pipelines, classical ML, and practical AI features.
-
-</td>
-<td align="center" width="25%">
-
-🧪
-
-Reliable Engineering
-
-Automated tests, validation, error handling, and maintainable architecture.
-
-</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-✧ Featured Work
-
-<div align="center">
-
-My Recent Projects
-
-Three different approaches to building useful software: classical machine learning, retrieval augmented generation, and product focused full stack development.
-
-</div>
-
-<br>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-📧 SmartMail
-
-Classical NLP Email Intelligence
-
-SmartMail is an end to end machine learning application that classifies emails into Spam, Promotional, Work, Personal, Important, and Social.
-
-The project deliberately avoids an LLM classifier. It uses a transparent TF IDF + Logistic Regression pipeline and exposes model driven explanations so the prediction is understandable.
-
-Core Stack
-
-Python pandas NumPy scikit learn
-
-FastAPI Pydantic SQLAlchemy SQLite
-
-React TypeScript Vite
-
-What makes it interesting
-
-▸ Feature level explanations from model coefficients
-
-▸ Confidence scoring and low confidence warnings
-
-▸ .txt and .eml email uploads
-
-▸ Searchable, filterable prediction history
-
-▸ Statistics dashboard
-
-▸ Local classification with no LLM API calls
-
-▸ 63 tests across the complete stack
-
-▸ Docker and production oriented setup
-
-<br>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TF--IDF-C45A8A?style=flat-square">
-<img src="https://img.shields.io/badge/Logistic%20Regression-C45A8A?style=flat-square">
-<img src="https://img.shields.io/badge/FastAPI-C45A8A?style=flat-square">
-
-</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-👗 The Closet Club
+## 👗 The Closet Club
 
-Digital Wardrobe & Styling Experience
+**Digital Wardrobe & Styling Experience**
 
-The Closet Club is a fashion focused full stack web experience built around digital wardrobe management, outfit pairing, and styling.
+A full stack fashion platform centered around wardrobe management, outfit pairing, and a polished responsive experience.
 
-The visual direction was intentionally feminine, modern, responsive, and premium, with attention given to the experience across desktop, tablet, and mobile.
+The visual direction was intentionally feminine and premium, with attention to spacing, typography, interaction, responsive behaviour, and overall product feel.
 
-Core Stack
+**Stack**
 
-React Vite JavaScript
+`React` `Vite` `Express`  
+`Tailwind CSS` `JavaScript`
 
-Express Tailwind CSS
+**Includes**
 
-What makes it interesting
-
-▸ Digital wardrobe experience
-
-▸ Wardrobe item uploads
-
-▸ Outfit pairing and styling
-
-▸ Responsive product experience
-
-▸ Cohesive feminine visual system
-
-▸ Full stack application structure
-
-▸ Focus on interaction and usability
-
-<br>
-
-<div align="center">
+• Digital wardrobe experience  
+• Wardrobe item uploads  
+• Outfit pairing and styling  
+• Responsive layouts  
+• Feminine visual system  
+• Full stack architecture  
+• Product focused UI
 
 <a href="https://the-closet-club.vercel.app/">
-<img src="https://img.shields.io/badge/Live%20Experience-C45A8A?style=for-the-badge&logo=vercel&logoColor=white">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-C45A8A?style=for-the-badge&logo=vercel&logoColor=white">
 </a>
-
-</div>
 
 </td>
 </tr>
@@ -239,186 +174,100 @@ What makes it interesting
 <tr>
 <td width="50%" valign="top">
 
-🧾 Tax Assist AI
+## 🧾 Tax Assist AI
 
-RAG Based Pakistan Tax Assistant
+**RAG Based Pakistan Personal Income Tax Assistant**
 
-Tax Assist AI is a Retrieval Augmented Generation chatbot designed to help salaried individuals and freelancers in Pakistan understand personal income tax.
+A retrieval augmented generation chatbot designed to help salaried individuals and freelancers in Pakistan understand personal income tax.
 
-Instead of depending only on an LLM's general knowledge, the application retrieves relevant information from official tax material and uses that context to ground its responses.
+Relevant information is retrieved from official tax material before the response is generated, keeping the application grounded in source material.
 
-Core Stack
+**Stack**
 
-React Node.js Express
+`React` `Node.js` `Express`  
+`MongoDB` `Google Gemini` `RAG`
 
-MongoDB Google Gemini RAG
+**Includes**
 
-What makes it interesting
-
-▸ Grounded tax information retrieval
-
-▸ Personal income tax guidance
-
-▸ FBR focused source material
-
-▸ JWT authentication
-
-▸ Secure password hashing
-
-▸ Conversation history
-
-▸ Adjustable retrieval behaviour
-
-▸ AI responses grounded in retrieved context
-
-<br>
-
-<div align="center">
+• Grounded tax retrieval  
+• Personal income tax guidance  
+• FBR focused knowledge  
+• JWT authentication  
+• Password hashing  
+• Conversation history  
+• Retrieval controls  
+• Context grounded responses
 
 <a href="https://github.com/zainab-fatima-22/rag-chatbot">
-<img src="https://img.shields.io/badge/Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+<img src="https://img.shields.io/badge/PROJECT-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
-</div>
 
 </td>
 
 <td width="50%" valign="top">
 
-🐍 Snake Game
+## 🐍 Snake Game
 
-Classic Interactive Game
+**Interactive Game Development**
 
-A classic Snake Game project focused on implementing game logic and interactive behaviour from the ground up.
+A classic Snake Game project built around game state, movement, collision detection, scoring, input handling, and interactive gameplay.
 
-The project strengthened my understanding of state, movement, collision detection, scoring, input handling, and game flow while working on a completely different problem space from my web and AI projects.
+It is a different kind of engineering problem from my AI and web applications, and helped strengthen my understanding of state driven behaviour and game logic.
 
-Focus Areas
+**Focus**
 
-▸ Game state management
+`Game Logic` `State`  
+`Collision` `Input` `Scoring`
 
-▸ Player movement
+<br>
 
-▸ Collision detection
+### Other Work
 
-▸ Score tracking
+🛒 E Commerce Store  
+🎮 Space Shooter  
+🏦 Banking System  
+🔐 Secure Login System  
+📚 Library Management  
+🏨 Hotel Network  
+🧪 OpenCart Testing
 
-▸ Input handling
+</td>
+</tr>
+</table>
 
-▸ Interactive gameplay
+<br>
+
+# Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" alt="C++, Java, Python, JavaScript and TypeScript">
 
 <br><br>
 
-<div align="center">
+### Frontend & Backend
 
-<img src="https://img.shields.io/badge/GAME%20DEVELOPMENT-C45A8A?style=for-the-badge">
+<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,nodejs,express,fastapi,spring" alt="Frontend and backend technologies">
 
-</div>
+<br><br>
 
-</td>
-</tr>
-</table>
+### Data, DevOps & Tools
 
-<br>
-
-<div align="center">
-
-✦ A few more things I've built
-
-E Commerce Store　 Space Shooter　 Banking System
-
-Secure Login System　 Library Management　 Hotel Network
-
-OpenCart Testing　 University RAG Chatbot
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,docker,git,github,linux,postman" alt="Databases, DevOps and tools">
 
 </div>
 
 <br>
 
-♡ My Technology Palette
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="20%">
-
-Languages
-
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts" width="190">
-
-</td>
-<td align="center" width="20%">
-
-Frontend
-
-<img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind" width="190">
-
-</td>
-<td align="center" width="20%">
-
-Backend
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring" width="190">
-
-</td>
-<td align="center" width="20%">
-
-Data
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite" width="150">
-
-</td>
-<td align="center" width="20%">
-
-Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,postman" width="190">
-
-</td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-Google%20Gemini-C45A8A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Machine%20Learning-scikit--learn-C45A8A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Testing-JUnit%20%7C%20pytest%20%7C%20Vitest-C45A8A?style=for-the-badge">
-<img src="https://img.shields.io/badge/Architecture-REST%20%7C%20RAG%20%7C%20MERN-C45A8A?style=for-the-badge">
-
-</div>
-
-<br>
-
-✦ How I Approach a Project
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center"><b>01</b><br><br>Understand<br>the problem</td>
-<td align="center">→</td>
-<td align="center"><b>02</b><br><br>Design the<br>experience</td>
-<td align="center">→</td>
-<td align="center"><b>03</b><br><br>Build the<br>system</td>
-<td align="center">→</td>
-<td align="center"><b>04</b><br><br>Test the<br>important paths</td>
-<td align="center">→</td>
-<td align="center"><b>05</b><br><br>Polish and<br>ship</td>
-</tr>
-</table>
-
-</div>
-
-<br>
-
-✧ Engineering Interests
+# Engineering Interests
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-🌐 Web Engineering
+### Web Engineering
 
 Full stack applications
 
@@ -435,7 +284,7 @@ Database driven systems
 </td>
 <td width="33%" valign="top">
 
-🤖 AI & Machine Learning
+### AI & Machine Learning
 
 RAG systems
 
@@ -443,28 +292,28 @@ LLM integration
 
 Natural language processing
 
-TF IDF pipelines
+Classical ML
 
 Model evaluation
 
-Explainable machine learning
+Explainable ML
 
 </td>
 <td width="33%" valign="top">
 
-🧪 Software Quality
-
-Automated testing
-
-API testing
+### Software Quality
 
 Unit testing
 
 Integration testing
 
-Error handling
+API testing
 
 Regression testing
+
+Validation
+
+Error handling
 
 </td>
 </tr>
@@ -472,89 +321,96 @@ Regression testing
 
 <br>
 
-🎓 Education
-
-Bachelor of Science in Software Engineering
-
-Capital University of Science and Technology, Pakistan
-
-CGPA: 3.86 / 4.00
-Expected Graduation: 2026
-
-Relevant coursework includes Object Oriented Programming, Data Structures and Algorithms, Software Design and Architecture, Database Systems, Computer Networks, Software Testing and Quality Assurance, Web Engineering, Artificial Intelligence, and Parallel and Distributed Computing.
-
-<br>
-
-✦ Beyond the Code
+# GitHub Activity
 
 <div align="center">
 
-✨
-
-Focus
-
-📸
-
-Content Photography and visual storytelling
-
-🎥
-
-Content Creation
-
-🤖
-
-Artificial Intelligence
-
-🚀
-
-Technology and product innovation
-
-💻
-
-Software development and problem solving
-
-</div>
-
-<br>
-
-📊 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=zainab-fatima-22&show_icons=true&hide_border=true&rank_icon=github&title_color=C45A8A&icon_color=C45A8A&text_color=4A3A43&bg_color=FFF9FC" height="175" alt="GitHub statistics">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zainab-fatima-22&layout=compact&hide_border=true&title_color=C45A8A&text_color=4A3A43&bg_color=FFF9FC" height="175" alt="Most used languages">
+<img src="./assets/github-stats.svg" alt="GitHub statistics" width="90%">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zainab-fatima-22&hide_border=true&background=FFF9FC&ring=C45A8A&fire=C45A8A&currStreakLabel=C45A8A&sideLabels=4A3A43&dates=7B6872" alt="GitHub contribution streak">
+<img src="./assets/github-languages.svg" alt="GitHub language statistics" width="90%">
 
 </div>
 
 <br>
 
-♡ Currently Growing
+> The cards above are generated inside this profile repository rather than relying on a third party stats image service. That makes the README much more reliable.
+
+<br>
+
+# 🐍 Contribution Snake
 
 <div align="center">
 
-<table>
-<tr>
-<td align="center">🧠<br><b>Advanced AI</b><br>LLM applications and RAG</td>
-<td align="center">☁️<br><b>Cloud & DevOps</b><br>Deployment and infrastructure</td>
-<td align="center">🏗️<br><b>System Design</b><br>Scalability and architecture</td>
-<td align="center">📦<br><b>Containerization</b><br>Docker and Kubernetes</td>
-</tr>
-</table>
+### My contributions, turned into a little game
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/github-snake.svg">
+  <img src="./assets/github-snake.svg" alt="Snake eating GitHub contribution graph" width="95%">
+</picture>
+
+<br>
+
+<sub>Automatically regenerated from my GitHub contribution graph.</sub>
 
 </div>
 
 <br>
 
-✦ Let's Connect
+# Education
+
+### Bachelor of Science in Software Engineering
+
+**Capital University of Science and Technology, Pakistan**
+
+**CGPA:** 3.86 / 4.00  
+**Expected Graduation:** 2026
+
+Relevant coursework includes **Object Oriented Programming, Data Structures and Algorithms, Software Design and Architecture, Database Systems, Computer Networks, Software Testing and Quality Assurance, Web Engineering, Artificial Intelligence, and Parallel and Distributed Computing.**
+
+<br>
+
+# Currently Exploring
 
 <div align="center">
 
-I am always interested in building meaningful software, learning new technologies, and collaborating on challenging ideas.
+`Advanced AI`　 `RAG Systems`　 `Cloud & DevOps`  
+`System Design`　 `Docker`　 `Kubernetes`　 `Scalable Architecture`
+
+</div>
+
+<br>
+
+# Beyond Code
+
+<div align="center">
+
+📸 **Content Photography**  
+Visual storytelling and creative documentation
+
+&nbsp;&nbsp;&nbsp;
+
+🎥 **Content Creation**  
+Sharing knowledge and experiences
+
+&nbsp;&nbsp;&nbsp;
+
+🚀 **Technology Innovation**  
+Exploring useful products and new ideas
+
+</div>
+
+<br>
+
+# Let's Connect ♡
+
+<div align="center">
+
+If you are interested in software engineering, AI, full stack development, or building something meaningful, let's connect.
 
 <br>
 
@@ -562,13 +418,13 @@ I am always interested in building meaningful software, learning new technologie
 <img src="https://img.shields.io/badge/LinkedIn-Zainab%20Fatima-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
- 
+&nbsp;
 
 <a href="mailto:ahsanzainab3966@gmail.com">
-<img src="https://img.shields.io/badge/Email-ahsanzainab3966%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 
- 
+&nbsp;
 
 <a href="https://github.com/zainab-fatima-22">
 <img src="https://img.shields.io/badge/GitHub-zainab--fatima--22-181717?style=for-the-badge&logo=github&logoColor=white">
@@ -576,8 +432,10 @@ I am always interested in building meaningful software, learning new technologie
 
 <br><br>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:E9B7D0,50:F8D8E8,100:FFF1F7" width="100%">
+### Building with curiosity. Designing with intention. Engineering with care.
 
-♡ Building with curiosity. Designing with intention. Engineering with care.
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=110&section=footer&color=0:E9B7D0,50:F8D8E8,100:FFF1F7" width="100%">
 
 </div>
