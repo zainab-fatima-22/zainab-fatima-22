@@ -30,7 +30,7 @@ I like building beyond the demo stage: a thoughtful interface, a working API, a 
 
 <table>
 <tr>
-<td align="center"><b>3.86 / 4.00</b><br>CGPA</td>
+<td align="center"><b>3.87 / 4.00</b><br>CGPA</td>
 <td align="center"><b>Full Stack</b><br>Development</td>
 <td align="center"><b>AI + ML</b><br>Engineering</td>
 <td align="center"><b>QA</b><br>Testing</td>
@@ -367,7 +367,7 @@ Error handling
 
 **Capital University of Science and Technology, Pakistan**
 
-**CGPA:** 3.86 / 4.00  
+**CGPA:** 3.87 / 4.00  
 **Expected Graduation:** 2026
 
 Relevant coursework includes **Object Oriented Programming, Data Structures and Algorithms, Software Design and Architecture, Database Systems, Computer Networks, Software Testing and Quality Assurance, Web Engineering, Artificial Intelligence, and Parallel and Distributed Computing.**
